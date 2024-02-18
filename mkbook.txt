@@ -1,0 +1,15 @@
+版本控制
+1.进入要管理的文件夹
+2.初始化-提名
+3.管理
+4.生成版本
+
+Git init
+Git status
+ 	-检测当前文件架状态
+git add index.html
+Git add .
+
+Git commit -m 'v1'
+
+Git log
