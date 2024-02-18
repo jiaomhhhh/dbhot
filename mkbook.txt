@@ -13,3 +13,7 @@ Git add .
 Git commit -m 'v1'
 
 Git log
+
+个人信息配置：用户名、邮箱
+git config --global user.email "jiaomh@live.com"
+  git config --global user.name “jiaomh”
